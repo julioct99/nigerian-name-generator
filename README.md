@@ -1,3 +1,3 @@
 # NIGERIAN NAME GENERATOR
 
-## Needs sound to work properly, in my opinion
+Needs sound to work properly, in my opinion
